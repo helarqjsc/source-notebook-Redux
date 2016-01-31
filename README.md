@@ -1,8 +1,8 @@
-inSRC (redux version)
+source-notebook (redux version)
 =========================
 
 ## About
-Redux version of [inSRC app](https://github.com/anorudes/inSRC)
+Redux version of [source-notebook Redux app](https://github.com/helarqjsc/source-notebook-Redux)
 
 ## Run app (web version)
 ```
